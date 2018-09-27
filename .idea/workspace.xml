@@ -1,7 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b54cff5-1cf0-4214-84b1-2231043686ba" name="Default" comment="" />
+    <list default="true" id="4b54cff5-1cf0-4214-84b1-2231043686ba" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/.env.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/bootstrap/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/config/environment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/config/environments/local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/config/environments/production.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/config/shared.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/mu-plugins/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/mu-plugins/load.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/a11y/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/api-fetch/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/autop/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/blob/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/edit-blocks-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/edit-blocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/theme-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-library/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-serialization-default-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/block-serialization-spec-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/blocks/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/components/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/components/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/compose/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/core-data/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/data/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/date/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/deprecated/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/dom-ready/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/edit-post/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/edit-post/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/edit-post/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/editor/editor-styles-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/editor/editor-styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/editor/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/editor/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/editor/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/element/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/hooks/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/html-entities/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/i18n/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/is-shallow-equal/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/keycodes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/nux/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/nux/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/nux/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/plugins/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/redux-routine/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/shortcode/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/token-list/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/url/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/viewport/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/build/wordcount/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/gutenberg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/languages/gutenberg-translations.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/languages/gutenberg.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/blocks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-block-type-registry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-block-type.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-rest-autosaves-controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-rest-block-renderer-controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-rest-blocks-controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-rest-post-search-handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-rest-search-controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/class-wp-rest-search-handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/client-assets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/i18n.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/load.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/meta-box-partial-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/parser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/plugin-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/lib/rest-api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-library/src/archives/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-library/src/block/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-library/src/categories/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-library/src/latest-comments/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-library/src/latest-posts/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-library/src/shortcode/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/packages/block-serialization-default-parser/parser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/post-content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/plugins/gutenberg/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/.bowerrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/assets/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/assets/sass/screen.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/assets/stylus/screen.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/dist/css/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/dist/images/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/dist/js/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/languages/fr_BE.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/languages/fr_BE.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/languages/fr_FR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/languages/fr_FR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/admin/actions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/admin/theme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/constants.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/images.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/menus.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/providers.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/sidebars.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/supports.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/templates.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/theme.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/controllers/Example.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/models/Post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/providers/RoutingService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/views/welcome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/widgets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/htdocs/wp-config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/library/Thms/Config/Environment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/storage/twig/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/storage/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/tests/config/EnvironmentTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopback/wp-cli.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/assets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/components/AppLogo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/components/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/layouts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/layouts/default.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/middleware/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/nuxt.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/pages/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/pages/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/plugins/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rifshopfront/store/README.md" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,74 +181,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopback/.env">
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rifnewsfront/pages/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="122">
+              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopback/config/environments/local.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopback/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loading.config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopfront/pages/index.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="default.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopfront/layouts/default.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="nuxt.config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rifshopfront/nuxt.config.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopfront/pages/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppLogo.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rifshopfront/components/AppLogo.vue">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -90,6 +202,7 @@
         <option value="$PROJECT_DIR$/rifshopback/.env" />
         <option value="$PROJECT_DIR$/rifshopback/config/environment.php" />
         <option value="$PROJECT_DIR$/rifshopback/config/shared.php" />
+        <option value="$PROJECT_DIR$/rifnewsfront/pages/index.vue" />
       </list>
     </option>
   </component>
@@ -100,13 +213,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/rifshopfront/node_modules" />
+    <handled-path value="$PROJECT_DIR$/rifnewsfront/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/rifshopback/htdocs/content/mu-plugins/themosis-framework/package.json" />
-      <path value="$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/package.json" />
-      <path value="$PROJECT_DIR$/rifshopfront/package.json" />
+      <path value="$PROJECT_DIR$/rifnewsfront/package.json" />
+      <path value="$PROJECT_DIR$/rifsnewsback/htdocs/content/mu-plugins/themosis-framework/package.json" />
+      <path value="$PROJECT_DIR$/rifsnewsback/htdocs/content/themes/rifshop-theme/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -174,6 +287,7 @@
     <option name="width" value="1398" />
     <option name="height" value="856" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -184,43 +298,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
+              <item name="rifnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rifnews" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
-              <item name="rifshopfront" type="462c0819:PsiDirectoryNode" />
+              <item name="rifnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rifnews" type="462c0819:PsiDirectoryNode" />
+              <item name="rifnewsfront" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
-              <item name="rifshopfront" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
-              <item name="rifshopfront" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
-              <item name="rifshopfront" type="462c0819:PsiDirectoryNode" />
+              <item name="rifnews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rifnews" type="462c0819:PsiDirectoryNode" />
+              <item name="rifnewsfront" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
-              <item name="rifshopfront" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rifshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rifshop" type="462c0819:PsiDirectoryNode" />
-              <item name="rifshopfront" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,25 +348,28 @@
       <workItem from="1537204425096" duration="107000" />
       <workItem from="1537262646125" duration="4675000" />
       <workItem from="1537350346934" duration="2705000" />
+      <workItem from="1538064363662" duration="215000" />
+      <workItem from="1538064763886" duration="787000" />
+      <workItem from="1538065775788" duration="137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7487000" />
+    <option name="totallyTimeSpent" value="8626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25654802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26729348" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.26649418" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32729626" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,131 +388,53 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rifshopback/config/environment.php">
+    <entry file="file://$PROJECT_DIR$/rifnewsfront/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/.env">
+    <entry file="file://$PROJECT_DIR$/rifshopback/.env" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/config/environments/local.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/index.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/composer.json" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/index.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/layouts/default.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/README.md" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/components/AppLogo.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/nuxt.config.js" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/config/environment.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/.env" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/config/environments/local.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/index.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/composer.json" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/layouts/default.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/README.md" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/components/AppLogo.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/index.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/.env.local" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/.env.local" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/config/environment.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/.env" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/config/shared.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/config/environments/local.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/index.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/composer.json" />
+    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/components/AppLogo.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/README.md" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/index.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/layouts/default.vue" />
+    <entry file="file://$PROJECT_DIR$/rifshopfront/nuxt.config.js" />
+    <entry file="file://$PROJECT_DIR$/rifnewsfront/pages/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="122">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/config/environments/local.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/layouts/default.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/components/AppLogo.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/.env.local">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/.env.local">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/config/environment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/config/shared.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/config/environments/local.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopback/htdocs/content/themes/rifshop-theme/resources/config/loading.config.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/components/AppLogo.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/layouts/default.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rifshopfront/nuxt.config.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -30,7 +30,7 @@ export default {
     AppLogo
   }
 }
-</script
+</script>
 
 <style>
 .container {
